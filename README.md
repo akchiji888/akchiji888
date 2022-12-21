@@ -4,4 +4,6 @@
 
 ![我的GitHub数据 My Github data](https://github-readme-stats.vercel.app/api?username=akchiji888&theme=tokyonight&count_private=true&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akchiji888&langs_count=8)
+
 Find me at [BiliBili](https://space.bilibili.com/630105273?spm_id_from=333.1007.0.0)
